@@ -1,0 +1,9 @@
+{
+  "name": "ralph-loop-v9",
+  "version": "9.0.0",
+  "description": "Forge Multi-Agent Build Orchestrator v9 — adds TypeScript compile gate (hard blocker before PR), Screen References written back into F-XX-*.md by /design-ui, and /feature-to-issues reads Screen References from feature files as primary source (fallback: ai-context/ui-design.md).",
+  "author": {
+    "name": "Radixweb"
+  },
+  "keywords": ["agentic", "sdlc", "build", "orchestrator", "frontend", "fullstack"]
+}
